@@ -16,7 +16,7 @@
         colours: [ "66FF1A", "EB34A3", "EB6BA5", "ffea2c"], //"E80C7A", "FF0DFF", "E82C0C", "7C0000",
         numParticles: 500,
         width: 1200,
-        height: 700,
+        height: 1200,
         speed: 1
     });
 
