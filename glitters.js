@@ -150,8 +150,8 @@
 
     function createCanvas(id, w, h){
         var canvas = document.createElement("canvas");
-        canvas.width = w;
-        canvas.height = h;
+        canvas.width = window.screen.width;
+        canvas.height = window.screen.height;
         canvas.id = id;
         return canvas;
     }
