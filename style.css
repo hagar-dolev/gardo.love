@@ -1,5 +1,5 @@
 .invite-card{
-    background: url("wedding_invitation.jpg");
+    background: url("wedding_invite.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 600px) {
     .invite-card{
-        background: url("wedding_invitation.jpg");
+        background: url("wedding_invite.png");
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
